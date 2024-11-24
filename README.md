@@ -14,6 +14,7 @@ Conceptos Tecnicos de Informatica │
         └── Manual de Contenido Unidad 2 - CONCEPTOS TÉCNICOS DE INFORMÁTICA |
     ├── Clase 3 │
         └── Manual de Contenido Unidad 3 - CONCEPTOS TÉCNICOS DE INFORMÁTICA |
+    ├── certificado de todocodeacademy
 
 ## Requisitos Previos para Usar Git
 
